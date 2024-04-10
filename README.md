@@ -16,9 +16,9 @@ Olá a todos esse repositório vai ser destinado para armazenar tudo sobre Pytho
 
 Hello everyone, this repository is going to be meant to store everything about Python in which I perform for my learning.
 
-1. All will is in their folders;
+1.All will is in their folders;
 
-2. It will contain a statement to understand.
+2.It will contain a statement to understand.
 
 # --------------------------------------------------------------------------------------------------------------------------------
 
