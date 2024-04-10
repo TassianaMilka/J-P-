@@ -8,3 +8,8 @@ Olá a todos esse repositório vai ser destinado para armazenar tudo sobre Pytho
 1.Todos vai está em suas pastas;
 
 2.Vai conter um enunciado para compreender.
+
+
+
+# Summary in English 
+
