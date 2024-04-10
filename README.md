@@ -30,4 +30,4 @@ Hola a todos, este repositorio va a estar destinado a almacenar todo lo relacion
 2.It contendrá una instrucción para comprender en el código.
 # --------------------------------------------------------------------------------------------------------------------------------
 
-(Muito Obrigada),(Thank You),(Gracias) is (どうもありがとうございます)
+(Muito Obrigada),(Thank You),(Gracias) and (どうもありがとうございます)
