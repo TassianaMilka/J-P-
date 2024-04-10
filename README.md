@@ -22,7 +22,7 @@ Hello everyone, this repository is going to be meant to store everything about P
 
 # --------------------------------------------------------------------------------------------------------------------------------
 
-# Resumen en Spanish
+# Resumen en Espanõl
 Hola a todos, este repositorio va a estar destinado a almacenar todo lo relacionado con Python en el que me desenvuelvo para mi aprendizaje.
 
 1.Todo el testamento está en sus carpetas;
