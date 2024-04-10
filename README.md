@@ -18,7 +18,7 @@ Hello everyone, this repository is going to be meant to store everything about P
 
 1.All will is in their folders;
 
-2.It will contain a statement to understand.
+2.It will contain a statement to understand in the code.
 
 # --------------------------------------------------------------------------------------------------------------------------------
 
