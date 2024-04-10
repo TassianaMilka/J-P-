@@ -28,3 +28,6 @@ Hola a todos, este repositorio va a estar destinado a almacenar todo lo relacion
 1.Todo el testamento está en sus carpetas;
 
 2.It contendrá una instrucción para comprender en el código.
+# --------------------------------------------------------------------------------------------------------------------------------
+
+(Muito Obrigada),(Thank You),(Gracias) is (どうもありがとうございます)
