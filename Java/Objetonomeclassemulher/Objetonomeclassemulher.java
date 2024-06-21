@@ -1,7 +1,7 @@
 //Programando em Java(19) or Programming in Java(19).
 
 //Realiza uma classe com o nome mulher definidos em public void o 
-falar,pensar e andar com mensagem parclassificar.
+//falar,pensar e andar com mensagem para classificar.
 
 import java.util.*;
 import java.lang.*;
