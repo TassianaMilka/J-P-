@@ -1,4 +1,4 @@
-//Programando em Java 17
+//Programando em Java(17) or Programming in Java(17).
 //packed caldowhile;
 
 //Realiza um código utilizando Do while que informa os números de uma pontência que o resultado é 16,caso não digita corretamente conter uma mensagem para identificar
