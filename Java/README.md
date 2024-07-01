@@ -21,7 +21,7 @@ Principais itens que já foram abordado e que ainda serão realizados no Canal
 
 7.Métodos e funções de orientação a objeto;
 
-8. Todos os enunciados dos  exercícios foram criados por mim mesma.
+8.Todos os enunciados dos  exercícios foram criados por mim mesma.
 --------------------------------------------------------------------------------------------------------------------------------
 # Summary in English
 
@@ -42,7 +42,7 @@ Main items that have already been addressed and that will still be carried out i
 
 7.Object-oriented methods and functions;
 
-8. All the statements of the exercises were created by myself.
+8.All the statements of the exercises were created by myself.
 
 --------------------------------------------------------------------------------------------------------------------------------
 # Resumen en Español
