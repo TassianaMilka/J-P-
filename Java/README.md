@@ -22,6 +22,7 @@ Principais itens que já foram abordado e que ainda serão realizados no Canal
 7.Métodos e funções de orientação a objeto;
 
 8.Todos os enunciados dos  exercícios foram criados por mim mesma.
+
 --------------------------------------------------------------------------------------------------------------------------------
 # Summary in English
 
@@ -65,5 +66,6 @@ Principales puntos que ya se han abordado y que aún se llevarán a cabo en el C
 7.Métodos y funciones orientados a objetos;
 
 8.Todas las declaraciones de los ejercicios fueron creadas por mi.
+
 --------------------------------------------------------------------------------------------------------------------------------
 (Muito Obrigada),(Thank You),(Gracias) and (どうもありがとうございます)
