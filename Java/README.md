@@ -19,8 +19,9 @@ Principais itens que já foram abordado e que ainda serão realizados no Canal
 
 6.Calcular(soma,subtração,multiplicação,divisão,resto);
 
-7.Métodos e funções de orientação a objeto.
+7.Métodos e funções de orientação a objeto;
 
+8. Todos os enunciados dos  exercícios foram criados por mim mesma.
 --------------------------------------------------------------------------------------------------------------------------------
 # Summary in English
 
@@ -39,7 +40,9 @@ Main items that have already been addressed and that will still be carried out i
 
 6.Calculate(add, subtract, multiply, divide, remainder);
 
-7.Object-oriented methods and functions.
+7.Object-oriented methods and functions;
+
+8. All the statements of the exercises were created by myself.
 
 --------------------------------------------------------------------------------------------------------------------------------
 # Resumen en Español
@@ -59,7 +62,8 @@ Principales puntos que ya se han abordado y que aún se llevarán a cabo en el C
 
 6.Calcular (sumar, restar, multiplicar, dividir, resto);
 
-7.Métodos y funciones orientados a objetos.
+7.Métodos y funciones orientados a objetos;
 
+8.Todas las declaraciones de los ejercicios fueron creadas por mi.
 --------------------------------------------------------------------------------------------------------------------------------
 (Muito Obrigada),(Thank You),(Gracias) and (どうもありがとうございます)
