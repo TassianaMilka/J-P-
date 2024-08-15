@@ -4,7 +4,7 @@
 
 #Declaração de variáveis
 nome="capacelulares"
-quan=50
+quan=50;
 #Imprimir a mensagem
 print("Olá somos da loja")
 print(nome)
