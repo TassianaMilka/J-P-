@@ -5,7 +5,7 @@ print("Imprimir os números e múltiplicar a ele mesmo\n")
 
 #Laço de repetição
 for i in range(4, 6):
-    
+     
     #Imprimir o resultado do laço de repetição
     print(i)
     
