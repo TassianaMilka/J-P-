@@ -11,6 +11,4 @@ Criar vários códigos utilizando função def:
 -Declaração;
 -String;
 -Soma;
--Entrada e saída de dado;
--if and else(estrutura/condição);
--for(laço de repetição).
+-Entrada e saída de dado.
