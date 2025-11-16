@@ -3,7 +3,7 @@
 
 import java.util.ArrayList;
 import java.util.Collections;
-import modelos.Listadados;
+import modelo.Listadados;
 
 
 public class Principal {
