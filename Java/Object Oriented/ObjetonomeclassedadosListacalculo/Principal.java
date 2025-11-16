@@ -1,4 +1,6 @@
-//Realiza uma Orientação a Objeto simples o nome e ano lançamento de um desenho animado.
+//Programando em Java(24) or Programming in Java(24).
+
+//Cria uma lista para imprmir o dados de ordem não na sequência e no final realizar o cálculo final.
 
 
 import java.util.ArrayList;
