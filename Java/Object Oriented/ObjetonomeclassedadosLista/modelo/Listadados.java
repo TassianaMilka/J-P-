@@ -14,7 +14,7 @@ public class Listadados implements Comparable <Listadados> {
     @Override
     public int compareTo(Listadados outroListadados) {
 
-        //O resturn da referência do dados
+        //O return da referência do dados
         return this.dados.compareTo(outroListadados.dados);
 
     }
