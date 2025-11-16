@@ -1,6 +1,6 @@
 //Programando em Java(22) or Programming in Java(22).
 
-//Realiza uma Orientação a Objeto com sistema de entrada sobre ofertas de matérias de compra e realizar cálculos de desconto para cada grupo de produto da loja.
+//Realiza uma Orientação a Objeto com sistema de entrada sobre ofertas de matérias de compra e realizar cálculos de desconto para cada grupo dos produtos da loja.
 
 
 
