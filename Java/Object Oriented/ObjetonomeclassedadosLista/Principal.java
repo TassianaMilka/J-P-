@@ -1,5 +1,6 @@
-//Realiza uma Orientação a Objeto simples o nome e ano lançamento de um desenho animado.
+//Programando em Java(23) or Programming in Java(23).
 
+//Faça uma lista  para dados em ordem  utilizando new.
 
 import java.util.ArrayList;
 import java.util.Collections;
